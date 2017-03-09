@@ -1,4 +1,3 @@
-// counter.ts
 import {Action} from '@ngrx/store';
 
 export const INCREMENT = 'INCREMENT';
